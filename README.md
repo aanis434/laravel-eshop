@@ -1,4 +1,4 @@
-### FOLLOWING TECHNOLOGY WAS USED FOR DEVELOPING OF Laravel-eShop:
+## Following technology was used for developing of laravel-eShop:
 
     PHP => 7.2.5
     Laravel => ^7.0
@@ -8,9 +8,9 @@
     Git(version control system)
     MySQL
 
-### AVAILABLE MODULES:
+### Available modules:
 
-In the project directory, you can find:
+In this project directory, you can find:
 
     Authentication
     Authorization
@@ -23,6 +23,6 @@ In the project directory, you can find:
     Dynamic Menu Management
     Dynamic Category Management
 
-#### ABOUT
+#### About
 
-It is an eCommerce based software developed with Laravel and jQuery. I share it for showing example of my some coding snippets. That's why I intentionally ignore some of the files like seed, migrations and StockTrait feature and others.
+It is an eCommerce based software developed with Laravel and jQuery. I share it for example of my some coding snippets. That's why I intentionally ignore some of the files like seed, migrations and StockTrait feature and others.
