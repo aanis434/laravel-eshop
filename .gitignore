@@ -2,10 +2,9 @@
 /public/hot
 /public/storage
 /storage/*.key
-/storage/data
-/database/*
-/app/Http/Controllers/Traits/StockTrait.php
 /vendor
+/.idea
+.idea/workspace.xml
 .env
 .env.backup
 .phpunit.result.cache
@@ -13,9 +12,16 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/.idea
-*.zip
 *.sql
+*.zip
 *.rar
-/bootstrap/cache
+/bootstrap/cache/
+php.ini
+.htaccess
+
+
+/storage/data
+/database/*
+/app/Http/Controllers/Traits/StockTrait.php
+
 
