@@ -1,4 +1,4 @@
-## Following technology was used for developing of laravel-eShop:
+## Following technology was used for developing of laravel-eshop:
 
     PHP => 7.2.5
     Laravel => ^7.0
@@ -12,16 +12,16 @@
 
 In this project directory, you can find:
 
-    Authentication
-    Authorization
-    Purchase Module
-    Product Module
-    Order Module
-    Stocks Module
-    Reports Module
-    Customer Dashboard
-    Dynamic Menu Management
-    Dynamic Category Management
+    >> Authentication
+    >> Authorization
+    >> Purchase Module
+    >> Product Module
+    >> Order Module
+    >> Stocks Module
+    >> Reports Module
+    >> Customer Dashboard
+    >> Dynamic Menu Management
+    >> Dynamic Category Management
 
 #### About
 
