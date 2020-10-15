@@ -1,0 +1,57 @@
+[08-Oct-2020 02:37:12 America/New_York] PHP Warning:  require(/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:37:12 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:37:17 America/New_York] PHP Warning:  require(/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:37:17 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:37:18 America/New_York] PHP Warning:  require(/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:37:18 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:38:05 America/New_York] PHP Warning:  require(/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 02:38:05 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/patilhpa/esshop.estheticsoft.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/patilhpa/esshop.estheticsoft.com/public/index.php on line 24
+[08-Oct-2020 07:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[08-Oct-2020 07:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[08-Oct-2020 07:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[08-Oct-2020 07:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[08-Oct-2020 07:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[08-Oct-2020 07:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[08-Oct-2020 07:34:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(968): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(568): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(259): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(815): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/C in /home/patilhpa/esshop.estheticsoft.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
