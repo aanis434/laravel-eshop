@@ -1,12 +1,12 @@
-## Following technology was used for developing of laravel-eshop:
+## For developing laravel-eshop, following technology was used:
 
-    PHP => 7.2.5
-    Laravel => ^7.0
-    Javascript
-    jQuery
-    Bootstrap
-    Git(version control system)
-    MySQL
+    >> PHP => 7.2.5
+    >> Laravel => ^7.0
+    >> Javascript
+    >> jQuery
+    >> Bootstrap
+    >> MySQL
+    >> Git(version control system)
 
 ### Available modules:
 
