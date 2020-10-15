@@ -1,22 +1,28 @@
-Extract the archive and put it in the folder you want
+### FOLLOWING TECHNOLOGY WAS USED FOR DEVELOPING OF Laravel-eShop:
 
-Run `cp` `.env.example .env` file to copy example file to `.env`
+    PHP => 7.2.5
+    Laravel => ^7.0
+    Javascript
+    jQuery
+    Bootstrap
+    Git(version control system)
+    MySQL
 
-_**Then edit your .env file with DB credentials and other settings.**_
+### AVAILABLE MODULES:
 
-Run `composer install command`
+In the project directory, you can find:
 
-Run ``php artisan migrate --seed command.``
+    Authentication
+    Authorization
+    Purchase Module
+    Product Module
+    Order Module
+    Stocks Module
+    Reports Module
+    Customer Dashboard
+    Dynamic Menu Management
+    Dynamic Category Management
 
-Notice: seed is important, because it will create the first admin user for you.
+#### ABOUT
 
-Run `php artisan key:generate command.`
-
-If you have file/photo fields, run php artisan storage:link command.
-
-And that's it, go to your domain and login:
-
-**`Username:	admin@estheticsoft.com
-Password:	password`**
-
-
+It is an eCommerce based software developed with Laravel and jQuery. I share it for showing example of my some coding snippets. That's why I intentionally ignore some of the files like seed, migrations and StockTrait feature and others.
